@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/1/1.iml" filepath="$PROJECT_DIR$/src/main/java/1/1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Golden.iml" filepath="$PROJECT_DIR$/.idea/Golden.iml" />
-      <module fileurl="file://$PROJECT_DIR$/My-Snake-game-example-master/My-Snake-game-example-master.iml" filepath="$PROJECT_DIR$/My-Snake-game-example-master/My-Snake-game-example-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seaBattle-master/seaBattle-master.iml" filepath="$PROJECT_DIR$/seaBattle-master/seaBattle-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/My-Snake-game-example-master/My-Snake-game-example-master.iml" filepath="$PROJECT_DIR$/src/main/java/My-Snake-game-example-master/My-Snake-game-example-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/seaBattle-master/seaBattle-master.iml" filepath="$PROJECT_DIR$/src/main/java/seaBattle-master/seaBattle-master.iml" />
     </modules>
   </component>
 </project>
